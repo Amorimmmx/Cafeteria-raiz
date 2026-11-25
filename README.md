@@ -4,7 +4,7 @@ Aplicativo de vendas de uma cafeteria fictícia, feito em React Native (Expo Sna
 
 Escolhi uma cafeteria porque café é uma coisa de que gosto bastante, e o tema combina com uma identidade visual simples, em tons de marrom e creme.
 
-📄 **[Ler o relatório completo do projeto (PDF)](Relatorio.pdf)**
+**[Ler o relatório completo do projeto (PDF)](cafe_raiz/Relatorio.pdf)**
 
 ## Sobre a atividade
 
@@ -18,11 +18,11 @@ O desafio era criar um aplicativo de vendas com:
 
 | Home | Cafés | Doces |
 |:---:|:---:|:---:|
-| <img src="cafe_raiz/img/home.png" width="200"> | <img src="img/cafes.png" width="200"> | <img src="img/doces.png" width="200"> |
+| <img src="cafe_raiz/img/home.png" width="200"> | <img src="cafe_raiz/img/cafes.png" width="200"> | <img src="cafe_raiz/img/doces.png" width="200"> |
 
 | Sobre | Contatos |
 |:---:|:---:|
-| <img src="img/sobre.png" width="200"> | <img src="img/contatos.png" width="200"> |
+| <img src="cafe_raiz/img/sobre.png" width="200"> | <img src="cafe_raiz/img/contatos.png" width="200"> |
 
 - **Home:** foto, nome, slogan, botão "Ver cardápio" e horário de funcionamento.
 - **Cafés:** Expresso, Cappuccino, Latte e Mocha, com foto, descrição e preço.
@@ -84,7 +84,7 @@ Os links de WhatsApp, Instagram e mapa são genéricos e podem ser trocados pelo
 - trocar as cores do menu de abas para combinar com o app;
 - ler mensagens de erro e achar onde está o problema.
 
-Mais detalhes, incluindo as dificuldades que tive, estão no [relatório](Relatorio.pdf).
+Mais detalhes, incluindo as dificuldades que tive, estão no [relatório](cafe_raiz/Relatorio.pdf).
 
 ## Autor
 
