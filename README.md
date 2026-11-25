@@ -18,7 +18,7 @@ O desafio era criar um aplicativo de vendas com:
 
 | Home | Cafés | Doces |
 |:---:|:---:|:---:|
-| <img src="img/home.png" width="200"> | <img src="img/cafes.png" width="200"> | <img src="img/doces.png" width="200"> |
+| <img src="cafe_raiz/img/home.png" width="200"> | <img src="img/cafes.png" width="200"> | <img src="img/doces.png" width="200"> |
 
 | Sobre | Contatos |
 |:---:|:---:|
