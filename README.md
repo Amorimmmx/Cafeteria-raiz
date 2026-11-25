@@ -4,7 +4,7 @@ Aplicativo de vendas de uma cafeteria fictícia, feito em React Native (Expo Sna
 
 Escolhi uma cafeteria porque café é uma coisa de que gosto bastante, e o tema combina com uma identidade visual simples, em tons de marrom e creme.
 
-**[Ler o relatório completo do projeto (PDF)](docs/Relatorio_Cafe_Raiz.pdf)**
+**[Ler o relatório completo do projeto (PDF)](Relatorio.pdf)**
 
 ## Sobre a atividade
 
@@ -18,11 +18,11 @@ O desafio era criar um aplicativo de vendas com:
 
 | Home | Cafés | Doces |
 |:---:|:---:|:---:|
-| <img src="prints/home.png" width="200"> | <img src="prints/cafes.png" width="200"> | <img src="prints/doces.png" width="200"> |
+| <img src="img/home.png" width="200"> | <img src="img/cafes.png" width="200"> | <img src="img/doces.png" width="200"> |
 
 | Sobre | Contatos |
 |:---:|:---:|
-| <img src="prints/sobre.png" width="200"> | <img src="prints/contatos.png" width="200"> |
+| <img src="img/sobre.png" width="200"> | <img src="img/contatos.png" width="200"> |
 
 - **Home:** foto, nome, slogan, botão "Ver cardápio" e horário de funcionamento.
 - **Cafés:** Expresso, Cappuccino, Latte e Mocha, com foto, descrição e preço.
