@@ -4,7 +4,7 @@ Aplicativo de vendas de uma cafeteria fictícia, feito em React Native (Expo Sna
 
 Escolhi uma cafeteria porque café é uma coisa de que gosto bastante, e o tema combina com uma identidade visual simples, em tons de marrom e creme.
 
-**[Ler o relatório completo do projeto (PDF)](Relatorio.pdf)**
+📄 **[Ler o relatório completo do projeto (PDF)](Relatorio.pdf)**
 
 ## Sobre a atividade
 
@@ -51,17 +51,19 @@ O desafio era criar um aplicativo de vendas com:
 
 ```
 App.js            menu de abas (navegação)
+app.json
+index.js
 css/
   estilo.js       estilos usados por todas as telas
-img/              fotos do app
+img/              fotos dos produtos e imagens das telas
 telas/
   Home.js
   cafe.js
   doce.js
   Sobre.js
   Contatos.js
-docs/             relatório em PDF
-prints/           imagens das telas usadas neste README
+README.md
+Relatorio.pdf     relatório do projeto
 ```
 
 ## Como rodar
@@ -82,7 +84,7 @@ Os links de WhatsApp, Instagram e mapa são genéricos e podem ser trocados pelo
 - trocar as cores do menu de abas para combinar com o app;
 - ler mensagens de erro e achar onde está o problema.
 
-Mais detalhes, incluindo as dificuldades que tive, estão no [relatório](docs/Relatorio_Cafe_Raiz.pdf).
+Mais detalhes, incluindo as dificuldades que tive, estão no [relatório](Relatorio.pdf).
 
 ## Autor
 
